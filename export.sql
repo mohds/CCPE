@@ -2,7 +2,7 @@
 --  File created - Monday-December-12-2016   
 --------------------------------------------------------
 --------------------------------------------------------
---  DDL for View AQ$DEF$_AQCALL
+--  DDL for View AQ$DEF$_AQCALL - BY MOHAMMAD SALLOUM AND WASSIM EL AHMAR
 --------------------------------------------------------
 
   CREATE OR REPLACE FORCE VIEW "CCPE"."AQ$DEF$_AQCALL" ("QUEUE", "MSG_ID", "CORR_ID", "MSG_PRIORITY", "MSG_STATE", "DELAY", "DELAY_TIMESTAMP", "EXPIRATION", "ENQ_TIME", "ENQ_TIMESTAMP", "ENQ_USER_ID", "ENQ_TXN_ID", "DEQ_TIME", "DEQ_TIMESTAMP", "DEQ_USER_ID", "DEQ_TXN_ID", "RETRY_COUNT", "EXCEPTION_QUEUE_OWNER", "EXCEPTION_QUEUE", "USER_DATA", "ORIGINAL_QUEUE_NAME", "ORIGINAL_QUEUE_OWNER", "EXPIRATION_REASON") AS 
