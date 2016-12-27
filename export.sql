@@ -1,5 +1,5 @@
 --------------------------------------------------------
---  File created - Monday-December-12-2016   
+--  File created - Monday-December-12-2016 ------ 
 --------------------------------------------------------
 --------------------------------------------------------
 --  DDL for View AQ$DEF$_AQCALL - BY MOHAMMAD SALLOUM AND WASSIM EL AHMAR
